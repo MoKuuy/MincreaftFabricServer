@@ -1,0 +1,289 @@
+{
+  "modpackName": "mk",
+  "automodpackVersion": "4.0.0-beta18",
+  "loader": "fabric",
+  "loaderVersion": "0.16.9",
+  "mcVersion": "1.21.1",
+  "list": [
+    {
+      "file": "/mods/[Lambd 的动态光源] lambdynamiclights-3.1.2+1.21.1.jar",
+      "size": "844797",
+      "type": "mod",
+      "editable": false,
+      "sha1": "f76d97a197c624a78b7b9ccedabb079e2afa3da1",
+      "murmur": "457261116"
+    },
+    {
+      "file": "/ftb-essentials-fabric-2101.1.0.jar",
+      "size": "184677",
+      "type": "mod",
+      "editable": false,
+      "sha1": "bb54c15cc2034342b7f1b00c888fa6830ca3f99d",
+      "murmur": "3289031080"
+    },
+    {
+      "file": "/[信雅互联] connector-2.0.0-beta.4+1.21.1-full.jar",
+      "size": "4476697",
+      "type": "other",
+      "editable": false,
+      "sha1": "4202b4385180e2f4580567e3af9e1b6b480aa1a3",
+      "murmur": null
+    },
+    {
+      "file": "/architectury-13.0.8-fabric.jar",
+      "size": "600915",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e71346a43c563e5784580dd096338acfb45f49d4",
+      "murmur": "584683133"
+    },
+    {
+      "file": "/vanish-1.5.7+1.21.1.jar",
+      "size": "1230355",
+      "type": "mod",
+      "editable": false,
+      "sha1": "3ede2e7a60fb5ffdc9071d59b4e799e4df372f2a",
+      "murmur": "768100410"
+    },
+    {
+      "file": "/[聊天头像] chat_heads-0.13.6-fabric-1.21.jar",
+      "size": "73221",
+      "type": "mod",
+      "editable": false,
+      "sha1": "35a61e63ef1d2b76ad30f48ed47475e44c585854",
+      "murmur": "3306293086"
+    },
+    {
+      "file": "/iCommon-Fabric-bundle.jar",
+      "size": "631535",
+      "type": "mod",
+      "editable": false,
+      "sha1": "682b068c43a51dadffe4a783ddbf340bea7b4cd4",
+      "murmur": "3891825188"
+    },
+    {
+      "file": "/[火花] spark-1.10.109-fabric.jar",
+      "size": "3609981",
+      "type": "mod",
+      "editable": false,
+      "sha1": "eff42cbeee6fe9a7f3c57031c23200256366dcd1",
+      "murmur": "1396803699"
+    },
+    {
+      "file": "/mods/[自动汉化更新] I18nUpdateMod-3.6.0-all.jar",
+      "size": "45539",
+      "type": "mod",
+      "editable": false,
+      "sha1": "a738aaeb711278b763599bf8d09ff2ed87d763ae",
+      "murmur": "3419851428"
+    },
+    {
+      "file": "/[模组菜单] modmenu-11.0.3.jar",
+      "size": "973066",
+      "type": "mod",
+      "editable": false,
+      "sha1": "6213120772192040a0aeb5c7cfe330c068605b1f",
+      "murmur": "2497936418"
+    },
+    {
+      "file": "/mods/[模组菜单] modmenu-11.0.3.jar",
+      "size": "973066",
+      "type": "mod",
+      "editable": false,
+      "sha1": "6213120772192040a0aeb5c7cfe330c068605b1f",
+      "murmur": "2497936418"
+    },
+    {
+      "file": "/styled-nicknames-1.6.0+1.21.jar",
+      "size": "283118",
+      "type": "mod",
+      "editable": false,
+      "sha1": "8dce0a79959b1cdee245d0ab4bb16363f7d32a8c",
+      "murmur": "495628492"
+    },
+    {
+      "file": "/[文本占位符 API] placeholder-api-2.4.1+1.21.jar",
+      "size": "232332",
+      "type": "mod",
+      "editable": false,
+      "sha1": "5f61f50e36f1f957dbb87eda02da95d847b4a943",
+      "murmur": "4194736101"
+    },
+    {
+      "file": "/mods/SimpleTpa.jar",
+      "size": "66507",
+      "type": "other",
+      "editable": false,
+      "sha1": "284d151282577249c54904c481cf6a01633a09c4",
+      "murmur": null
+    },
+    {
+      "file": "/mods/[聊天头像] chat_heads-0.13.6-fabric-1.21.jar",
+      "size": "73221",
+      "type": "mod",
+      "editable": false,
+      "sha1": "35a61e63ef1d2b76ad30f48ed47475e44c585854",
+      "murmur": "3306293086"
+    },
+    {
+      "file": "/mods/styled-nicknames-1.6.0+1.21.jar",
+      "size": "283118",
+      "type": "mod",
+      "editable": false,
+      "sha1": "8dce0a79959b1cdee245d0ab4bb16363f7d32a8c",
+      "murmur": "495628492"
+    },
+    {
+      "file": "/mods/[文本占位符 API] placeholder-api-2.4.1+1.21.jar",
+      "size": "232332",
+      "type": "mod",
+      "editable": false,
+      "sha1": "5f61f50e36f1f957dbb87eda02da95d847b4a943",
+      "murmur": "4194736101"
+    },
+    {
+      "file": "/mods/[创世神] worldedit-mod-7.3.8.jar",
+      "size": "6222854",
+      "type": "mod",
+      "editable": false,
+      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
+      "murmur": "683807693"
+    },
+    {
+      "file": "/[自动汉化更新] I18nUpdateMod-3.6.0-all.jar",
+      "size": "45539",
+      "type": "mod",
+      "editable": false,
+      "sha1": "a738aaeb711278b763599bf8d09ff2ed87d763ae",
+      "murmur": "3419851428"
+    },
+    {
+      "file": "/[创世神] worldedit-mod-7.3.8.jar",
+      "size": "6222854",
+      "type": "mod",
+      "editable": false,
+      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
+      "murmur": "683807693"
+    },
+    {
+      "file": "/mods/iCommon-Fabric-bundle.jar",
+      "size": "631535",
+      "type": "mod",
+      "editable": false,
+      "sha1": "682b068c43a51dadffe4a783ddbf340bea7b4cd4",
+      "murmur": "3891825188"
+    },
+    {
+      "file": "/forgified-fabric-api-0.104.0+2.0.19+1.21.1.jar",
+      "size": "5475973",
+      "type": "mod",
+      "editable": false,
+      "sha1": "ec368ce5f79ee27ed0a79dccfa0f08741e4aec9b",
+      "murmur": "2451720692"
+    },
+    {
+      "file": "/[动态FPS] dynamic-fps-3.7.6+minecraft-1.21.0-fabric.jar",
+      "size": "181704",
+      "type": "mod",
+      "editable": false,
+      "sha1": "5a1bc0630be861c9dac83c0be7a3ea0ccc4e70af",
+      "murmur": "1545957243"
+    },
+    {
+      "file": "/fabric-api-0.109.0+1.21.1.jar",
+      "size": "2383475",
+      "type": "mod",
+      "editable": false,
+      "sha1": "35d3110bf44dc88f148d5feb13bfdae50268ba00",
+      "murmur": "1663632409"
+    },
+    {
+      "file": "/mods/architectury-13.0.8-fabric.jar",
+      "size": "600915",
+      "type": "mod",
+      "editable": false,
+      "sha1": "e71346a43c563e5784580dd096338acfb45f49d4",
+      "murmur": "584683133"
+    },
+    {
+      "file": "/SimpleTpa.jar",
+      "size": "66507",
+      "type": "other",
+      "editable": false,
+      "sha1": "284d151282577249c54904c481cf6a01633a09c4",
+      "murmur": null
+    },
+    {
+      "file": "/mods/ftb-library-fabric-2101.1.6.jar",
+      "size": "848958",
+      "type": "mod",
+      "editable": false,
+      "sha1": "4a0ccd41110c28d5850124f271493197b7ab2262",
+      "murmur": "3686717653"
+    },
+    {
+      "file": "/mods/forgified-fabric-api-0.104.0+2.0.19+1.21.1.jar",
+      "size": "5475973",
+      "type": "mod",
+      "editable": false,
+      "sha1": "ec368ce5f79ee27ed0a79dccfa0f08741e4aec9b",
+      "murmur": "2451720692"
+    },
+    {
+      "file": "/mods/[信雅互联] connector-2.0.0-beta.4+1.21.1-full.jar",
+      "size": "4476697",
+      "type": "other",
+      "editable": false,
+      "sha1": "4202b4385180e2f4580567e3af9e1b6b480aa1a3",
+      "murmur": null
+    },
+    {
+      "file": "/ftb-library-fabric-2101.1.6.jar",
+      "size": "848958",
+      "type": "mod",
+      "editable": false,
+      "sha1": "4a0ccd41110c28d5850124f271493197b7ab2262",
+      "murmur": "3686717653"
+    },
+    {
+      "file": "/mods/ftb-essentials-fabric-2101.1.0.jar",
+      "size": "184677",
+      "type": "mod",
+      "editable": false,
+      "sha1": "bb54c15cc2034342b7f1b00c888fa6830ca3f99d",
+      "murmur": "3289031080"
+    },
+    {
+      "file": "/mods/fabric-api-0.109.0+1.21.1.jar",
+      "size": "2383475",
+      "type": "mod",
+      "editable": false,
+      "sha1": "35d3110bf44dc88f148d5feb13bfdae50268ba00",
+      "murmur": "1663632409"
+    },
+    {
+      "file": "/[Lambd 的动态光源] lambdynamiclights-3.1.2+1.21.1.jar",
+      "size": "844797",
+      "type": "mod",
+      "editable": false,
+      "sha1": "f76d97a197c624a78b7b9ccedabb079e2afa3da1",
+      "murmur": "457261116"
+    },
+    {
+      "file": "/mods/[动态FPS] dynamic-fps-3.7.6+minecraft-1.21.0-fabric.jar",
+      "size": "181704",
+      "type": "mod",
+      "editable": false,
+      "sha1": "5a1bc0630be861c9dac83c0be7a3ea0ccc4e70af",
+      "murmur": "1545957243"
+    },
+    {
+      "file": "/mods/[火花] spark-1.10.109-fabric.jar",
+      "size": "3609981",
+      "type": "mod",
+      "editable": false,
+      "sha1": "eff42cbeee6fe9a7f3c57031c23200256366dcd1",
+      "murmur": "1396803699"
+    }
+  ]
+}
