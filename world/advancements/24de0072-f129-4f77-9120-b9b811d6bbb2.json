@@ -130,6 +130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-11-21 22:21:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-11-21 22:07:42 +0800"
@@ -142,6 +148,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-21 22:19:33 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-21 22:19:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-11-21 22:07:42 +0800"
@@ -151,6 +169,18 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-11-21 22:07:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2024-11-21 22:18:54 +0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-21 22:18:54 +0800"
     },
     "done": true
   },
@@ -172,15 +202,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-11-21 22:07:42 +0800"
-    },
-    "done": true
-  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2024-11-21 22:13:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-21 22:07:42 +0800"
     },
     "done": true
   },
@@ -190,6 +220,7 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2024-11-21 22:18:54 +0800"
@@ -260,5 +291,7 @@
     },
     "done": true
   },
+=======
+>>>>>>> parent of f20cc57 (V1.2)
   "DataVersion": 3955
 }

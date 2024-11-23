@@ -1,5 +1,6 @@
 # **1.21.1 FabricServer**  
 
+<<<<<<< HEAD
 ##### “服务器在只有插件没有mod的情况下，Client可以没有Fabric API下纯净游玩Server，但是装载Fabric API情况下，需要FTP library和architecury这三款mod”
 
 
@@ -9,12 +10,17 @@
 2024/11/21：
 
 ~~1.服务器的ServerIP和Automodpack的properties有问题.~~
+=======
+Quetion:
 
-~~【内网需要输入准确IP，如（192.168..）才可进入服务器，不可使用localhost and 127.0.0.1】;~~
+1.服务器的ServerIP和Automodpack的properties有问题
+>>>>>>> parent of f20cc57 (V1.2)
 
-~~【广域网进不了服务器报错log：2024-11-21-4.log】.~~
+【内网需要输入准确IP，如（192.168..）才可进入服务器，不可使用localhost and 127.0.0.1】;
 
-~~2.client的Automodpack会下载两次server的mods.~~
+【广域网进不了服务器报错log：2024-11-21-4.log】.
+
+2.client的Automodpack会下载两次server的mods.
 
 2024/11/22：
 
@@ -32,5 +38,9 @@
 
 2.主城保护mod.
 
+<<<<<<< HEAD
 ~~3.将invsee改成inv view(inv view好像用不了还是得用invsee).~~
+=======
+
+>>>>>>> parent of f20cc57 (V1.2)
 
