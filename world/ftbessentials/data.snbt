@@ -1,0 +1,7 @@
+{
+	warps: {
+		主城: { dim: "minecraft:overworld", x: 1052, y: 80, z: -262, time: 1732329635632L, xRot: -2.6999753f, yRot: -0.6014404f }
+	}
+	mute_timeouts: { }
+	kits: { }
+}

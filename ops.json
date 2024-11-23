@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "01f3f59c-d3ec-4e75-8f24-fbeafd872b7f",
+    "name": "ShiningPolestar",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "24de0072-f129-4f77-9120-b9b811d6bbb2",
     "name": "MoKuuy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "84c8f83f-4be9-39a8-a074-3e7fa3241073",
+    "name": "gin_taman",
     "level": 4,
     "bypassesPlayerLimit": false
   }
