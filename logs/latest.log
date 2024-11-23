@@ -1,6 +1,6 @@
-[19:53:53] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.9
-[19:53:53] [ForkJoinPool-1-worker-8/WARN]: Mod icommon-bundle uses the version bundle which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'bundle'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[19:53:53] [main/INFO]: Loading 72 mods:
+[09:45:52] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.9
+[09:45:53] [ForkJoinPool-1-worker-5/WARN]: Mod icommon-bundle uses the version bundle which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'bundle'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[09:45:53] [main/INFO]: Loading 72 mods:
 	- architectury 13.0.8
 	- easyauth 3.0.25
 	   |-- at_favre_lib_bcrypt 0.10.2
@@ -80,77 +80,80 @@
 	- java 21
 	- melius-vanish 1.5.7+1.21.1
 	   |-- fabric-permissions-api-v0 0.3.1
+	   |-- placeholder-api 2.4.1+1.21
 	   |-- player-data-api 0.6.0+1.21
 	   \-- server_translations_api 2.3.1+1.21-pre2
 	        \-- packet_tweaker 0.5.1+24w03b
 	- minecraft 1.21.1
-	- placeholder-api 2.4.1+1.21
 	- spark 1.10.109
 	   \-- fabric-permissions-api-v0 0.3.1
 	- styled-nicknames 1.6.0+1.21
 	   |-- fabric-permissions-api-v0 0.3.1
 	   \-- player-data-api 0.6.0+1.21
 	- worldedit 7.3.8+6939-7d32b45
-[19:53:53] [main/WARN]: Found 3 non-fabric mods:
+[09:45:53] [main/WARN]: Found 4 non-fabric mods:
 	- forgified-fabric-api-0.104.0+2.0.19+1.21.1.jar
+	- inv_view_forge-1.7.0-1.21.1.jar
 	- SimpleTpa.jar
 	- [信雅互联] connector-2.0.0-beta.4+1.21.1-full.jar
-[19:53:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/D:/mc/fabricServer1.21.1/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:53:54] [main/INFO]: Compatibility level set to JAVA_16
-[19:53:54] [main/INFO]: Compatibility level set to JAVA_21
-[19:53:54] [main/INFO]: -------------------------------------------------
-[19:53:54] [main/INFO]:  iCommon - Isaiah's common library for mods.
-[19:53:54] [main/INFO]:  Copyright (c) 2018-2024 Isaiah. Running on MC 1.21.1
-[19:53:54] [main/INFO]: -------------------------------------------------
-[19:53:54] [main/INFO]: Applying mixin: MixinMinecraftServer...
-[19:53:54] [main/INFO]: Applied 23 mixins.
-[19:53:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:54:05] [main/INFO]: [EasyAuth]: EasyAuth mod by NikitaCartes
-[19:54:05] [main/WARN]: [EasyAuth]: Disable enforce-secure-profile to allow offline players to join the server
-[19:54:05] [main/WARN]: [EasyAuth]: For more info, see https://github.com/NikitaCartes/EasyAuth/issues/68
-[19:54:05] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[19:54:05] [main/INFO]: iCommon Mod initialized.
-[19:54:06] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6b698bc7]
-[19:54:06] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
-[19:54:06] [main/INFO]: Loading configuration...
-[19:54:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:54:07] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[19:54:08] [main/INFO]: Loaded 1290 recipes
-[19:54:08] [main/INFO]: Loaded 1399 advancements
-[19:54:08] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 45 translation keys
-[19:54:09] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.630 ms
-[19:54:09] [Server thread/ERROR]: can't write .\world\.\serverconfig\ftbessentials.snbt: .\world\.\serverconfig\ftbessentials.snbt
-[19:54:09] [Server thread/INFO]: Starting background profiler...
-[19:54:09] [Server thread/INFO]: The async-profiler engine is not supported for your os/arch (windows10/amd64), so the built-in Java engine will be used instead.
-[19:54:09] [Server thread/INFO]: Setting IServer instance..
-[19:54:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[19:54:09] [Server thread/INFO]: Loading properties
-[19:54:09] [Server thread/INFO]: Default game type: SURVIVAL
-[19:54:09] [Server thread/INFO]: Generating keypair
-[19:54:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:54:09] [Server thread/INFO]: Using default channel type
-[19:54:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:54:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:54:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:54:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:54:09] [Server thread/INFO]: Preparing level "world"
-[19:54:09] [Server thread/INFO]: Setting IWorld for world "小小的愿望"
-[19:54:09] [Server thread/INFO]: Setting IWorld for world "小小的愿望_the_end"
-[19:54:11] [Server thread/INFO]: Setting IWorld for world "小小的愿望_nether"
-[19:54:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:54:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:54:11] [Server thread/INFO]: Time elapsed: 428 ms
-[19:54:11] [Server thread/INFO]: Done (2.377s)! For help, type "help"
-[19:54:33] [Server thread/INFO]: Stopping the server
-[19:54:33] [Server thread/INFO]: Stopping server
-[19:54:33] [Server thread/INFO]: Saving players
-[19:54:33] [Server thread/INFO]: Saving worlds
-[19:54:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[小小的愿望]'/minecraft:overworld
-[19:54:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[小小的愿望]'/minecraft:the_end
-[19:54:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[小小的愿望]'/minecraft:the_nether
-[19:54:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:54:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:54:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:54:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19:54:33] [Server thread/INFO]: [EasyAuth]: Shutting down EasyAuth.
-[19:54:33] [Server thread/INFO]: [EasyAuth]: Database connection closed successfully
+[09:45:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/D:/mc/fabricServer1.21.1/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[09:45:53] [main/INFO]: Compatibility level set to JAVA_16
+[09:45:53] [main/INFO]: Compatibility level set to JAVA_21
+[09:45:54] [main/INFO]: -------------------------------------------------
+[09:45:54] [main/INFO]:  iCommon - Isaiah's common library for mods.
+[09:45:54] [main/INFO]:  Copyright (c) 2018-2024 Isaiah. Running on MC 1.21.1
+[09:45:54] [main/INFO]: -------------------------------------------------
+[09:45:54] [main/INFO]: Applying mixin: MixinMinecraftServer...
+[09:45:54] [main/INFO]: Applied 23 mixins.
+[09:45:54] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[09:46:03] [main/INFO]: [EasyAuth]: EasyAuth mod by NikitaCartes
+[09:46:03] [main/WARN]: [EasyAuth]: Disable enforce-secure-profile to allow offline players to join the server
+[09:46:03] [main/WARN]: [EasyAuth]: For more info, see https://github.com/NikitaCartes/EasyAuth/issues/68
+[09:46:04] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[09:46:04] [main/INFO]: iCommon Mod initialized.
+[09:46:05] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@252fd163]
+[09:46:05] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
+[09:46:05] [main/INFO]: Loading configuration...
+[09:46:05] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:46:07] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[09:46:07] [main/INFO]: Loaded 1290 recipes
+[09:46:08] [main/INFO]: Loaded 1399 advancements
+[09:46:08] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 45 translation keys
+[09:46:08] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.718 ms
+[09:46:08] [Server thread/ERROR]: can't write .\world\.\serverconfig\ftbessentials.snbt: .\world\.\serverconfig\ftbessentials.snbt
+[09:46:08] [Server thread/INFO]: Starting background profiler...
+[09:46:08] [Server thread/INFO]: The async-profiler engine is not supported for your os/arch (windows10/amd64), so the built-in Java engine will be used instead.
+[09:46:09] [Server thread/INFO]: Setting IServer instance..
+[09:46:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[09:46:09] [Server thread/INFO]: Loading properties
+[09:46:09] [Server thread/INFO]: Default game type: SURVIVAL
+[09:46:09] [Server thread/INFO]: Generating keypair
+[09:46:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:46:09] [Server thread/INFO]: Using default channel type
+[09:46:09] [Server thread/INFO]: Preparing level "world"
+[09:46:09] [Server thread/INFO]: Setting IWorld for world "小小的愿望"
+[09:46:09] [Server thread/INFO]: Setting IWorld for world "小小的愿望_the_end"
+[09:46:11] [Server thread/INFO]: Setting IWorld for world "小小的愿望_nether"
+[09:46:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:46:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:46:12] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[09:46:12] [Server thread/INFO]: Time elapsed: 620 ms
+[09:46:12] [Server thread/INFO]: Done (2.789s)! For help, type "help"
+[09:46:43] [User Authenticator #1/INFO]: UUID of player MoKuuy is 24de0072-f129-4f77-9120-b9b811d6bbb2
+[09:46:44] [Server thread/INFO]: MoKuuy[/127.0.0.1:1942] logged in with entity id 42 at (1051.7710214354977, 79.0, -247.9166731497241)
+[09:46:44] [Server thread/INFO]: MoKuuy joined the game
+[09:47:05] [Server thread/INFO]: MoKuuy lost connection: Disconnected
+[09:47:05] [Server thread/INFO]: MoKuuy left the game
+[09:47:09] [Server thread/INFO]: Stopping the server
+[09:47:09] [Server thread/INFO]: Stopping server
+[09:47:09] [Server thread/INFO]: Saving players
+[09:47:09] [Server thread/INFO]: Saving worlds
+[09:47:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[小小的愿望]'/minecraft:overworld
+[09:47:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[小小的愿望]'/minecraft:the_end
+[09:47:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[小小的愿望]'/minecraft:the_nether
+[09:47:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:47:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:47:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:47:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:47:09] [Server thread/INFO]: [EasyAuth]: Shutting down EasyAuth.
+[09:47:09] [Server thread/INFO]: [EasyAuth]: Database connection closed successfully

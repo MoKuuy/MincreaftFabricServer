@@ -105,6 +105,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2024-11-22 22:21:30 +0800",
       "golden_apple": "2024-11-21 22:15:51 +0800"
     },
     "done": false
@@ -205,6 +206,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-11-21 22:39:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-11-21 22:39:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-11-21 22:40:03 +0800"
@@ -214,12 +227,6 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-11-21 22:40:03 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2024-11-21 22:39:44 +0800"
     },
     "done": true
   },
@@ -235,9 +242,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "has_reeds": "2024-11-21 22:39:44 +0800"
+      "has_lilac": "2024-11-22 22:13:04 +0800"
     },
     "done": true
   },
